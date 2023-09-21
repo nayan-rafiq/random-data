@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "NumberGenerator",
+    "pageId": "Generate Number",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Generate Number_NumberGenerator",
+  "deleted": false,
+  "gitSyncId": "642bf7b98ff19f1cc3393ee1_642bfa6b8ff19f1cc3393eec"
+}
