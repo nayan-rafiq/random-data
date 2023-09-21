@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Beer_GetRandomBeer",
-              "name": "GetRandomBeer",
+              "id": "Beer_GetRandomBeer2",
+              "name": "GetRandomBeer2",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],

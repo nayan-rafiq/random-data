@@ -386,7 +386,7 @@
     "textSize": "0.875rem",
     "widgetId": "td0xotn9uj",
     "minWidth": 450,
-    "tableData": "{{GetRandomBeer.data}}",
+    "tableData": "{{GetRandomBeer2.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",
