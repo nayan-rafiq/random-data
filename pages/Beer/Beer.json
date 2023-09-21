@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Generate Beer",
-    "slug": "generate-beer",
+    "name": "Beer",
+    "slug": "beer",
     "layouts": [
       {
         "viewMode": false,
@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 80,
+          "version": 86,
           "minHeight": 600,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Generate Beer_GetRandomBeer",
+              "id": "Beer_GetRandomBeer",
               "name": "GetRandomBeer",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -39,7 +39,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Generate Beer",
+        "id": "Beer",
         "deleted": false,
         "policies": [],
         "userPermissions": []
