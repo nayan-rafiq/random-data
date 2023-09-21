@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Generate Number",
-    "slug": "generate-number",
+    "name": "Number Generator",
+    "slug": "number-generator",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Generate Number",
+        "id": "Number Generator",
         "deleted": false,
         "policies": [],
         "userPermissions": []
