@@ -2,7 +2,7 @@
     "resetFormOnClick": false,
     "boxShadow": "none",
     "widgetName": "Button1",
-    "onClick": "{{numberText.text=NumberGenerator.generate() + \"\"}}",
+    "onClick": "{{numberText.setText(NumberGenerator.generate() + \"\")}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
