@@ -16,7 +16,7 @@
     "pageId": "Number Generator",
     "collectionId": "Number Generator_NumberGenerator",
     "actionConfiguration": {
-      "timeoutInMillisecond": 0,
+      "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
