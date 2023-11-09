@@ -39,10 +39,10 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "responsiveBehavior": "hug",
-    "originalTopRow": 14,
+    "originalTopRow": 15,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "originalBottomRow": 18,
+    "originalBottomRow": 19,
     "buttonVariant": "PRIMARY",
     "placement": "CENTER"
 }
