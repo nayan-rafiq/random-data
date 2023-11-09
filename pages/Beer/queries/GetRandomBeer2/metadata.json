@@ -43,8 +43,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-05-04T17:47:24Z"
+    "userPermissions": []
   },
   "id": "Beer_GetRandomBeer2",
   "deleted": false,
